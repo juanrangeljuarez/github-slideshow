@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Learning Github, second time, change line 5
+Learning Github, second time, Change again, change line 5
 Use the left arrow to go back!
 
